@@ -7,14 +7,23 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOTDisplay", "IOTDisplay\IO
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|ARM = Debug|ARM
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		fgh|Any CPU = fgh|Any CPU
+		fgh|ARM = fgh|ARM
+		fgh|x64 = fgh|x64
+		fgh|x86 = fgh|x86
+		Release|Any CPU = Release|Any CPU
 		Release|ARM = Release|ARM
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Debug|ARM.ActiveCfg = Debug|ARM
 		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Debug|ARM.Build.0 = Debug|ARM
 		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Debug|ARM.Deploy.0 = Debug|ARM
@@ -24,6 +33,21 @@ Global
 		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Debug|x86.ActiveCfg = Debug|x86
 		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Debug|x86.Build.0 = Debug|x86
 		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Debug|x86.Deploy.0 = Debug|x86
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|Any CPU.ActiveCfg = fgh|Any CPU
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|Any CPU.Build.0 = fgh|Any CPU
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|Any CPU.Deploy.0 = fgh|Any CPU
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|ARM.ActiveCfg = Debug|ARM
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|ARM.Build.0 = Debug|ARM
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|ARM.Deploy.0 = Debug|ARM
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|x64.ActiveCfg = fgh|x64
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|x64.Build.0 = fgh|x64
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|x64.Deploy.0 = fgh|x64
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|x86.ActiveCfg = fgh|x86
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|x86.Build.0 = fgh|x86
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.fgh|x86.Deploy.0 = fgh|x86
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Release|ARM.ActiveCfg = Release|ARM
 		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Release|ARM.Build.0 = Release|ARM
 		{4BCFA642-19CD-4A37-89DF-BF18F2A9E5A4}.Release|ARM.Deploy.0 = Release|ARM
